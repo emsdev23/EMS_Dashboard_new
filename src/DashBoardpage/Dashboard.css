@@ -1,0 +1,19 @@
+
+
+.data-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .data-container span {
+    display: flex;
+    align-items: center;
+  }
+
+  .data-container span b {
+    margin-right: 10px;
+  }
+  .data-container-legends span b{
+    margin-right: 40px;
+  }
